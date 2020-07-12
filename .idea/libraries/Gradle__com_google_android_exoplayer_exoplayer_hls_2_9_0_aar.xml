@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.exoplayer:exoplayer-hls:2.9.0@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/42880fb40d5e7ee40267e2a3dcf71770/jetified-exoplayer-hls-2.9.0/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/42880fb40d5e7ee40267e2a3dcf71770/jetified-exoplayer-hls-2.9.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/42880fb40d5e7ee40267e2a3dcf71770/jetified-exoplayer-hls-2.9.0/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.exoplayer/exoplayer-hls/2.9.0/a809b682f7a2c9b72a7bf22e9f65d50e5c37bea8/exoplayer-hls-2.9.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.exoplayer/exoplayer-hls/2.9.0/9f0ef736803afa6459a11617e83631e4dfe39b30/exoplayer-hls-2.9.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

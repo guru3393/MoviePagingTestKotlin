@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/guru/Downloads/MoviePagingTest/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_movie.xml",
+        "source": "/Users/guru/Downloads/MoviePagingTest/app/src/main/res/layout/item_movie.xml"
+    },
+    {
+        "merged": "/Users/guru/Downloads/MoviePagingTest/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_movie_details.xml",
+        "source": "/Users/guru/Downloads/MoviePagingTest/app/src/main/res/layout/activity_movie_details.xml"
+    },
+    {
+        "merged": "/Users/guru/Downloads/MoviePagingTest/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_search_movies.xml",
+        "source": "/Users/guru/Downloads/MoviePagingTest/app/src/main/res/layout/activity_search_movies.xml"
+    }
+]
